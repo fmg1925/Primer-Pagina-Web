@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center; /* Alinea todo el texto al centro */
+    background-color: #121212; /* Color oscuro como el de Spotify */
+    color: white;
+}
+h1, h2, h3 {
+    color: #1DB954; /* Verde característico de Spotify */
+}
+p {
+    width: 70%;
+    margin: auto;
+    text-align: justify;
+}
+img {
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+}
+table {
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+td {
+    padding: 10px;
+}
+button {
+    background-color: #1DB954;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+button:hover {
+    background-color: #17a74b;
+}
